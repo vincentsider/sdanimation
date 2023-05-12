@@ -1,7 +1,4 @@
 fastapi
 stability-sdk
 tqdm 
-shutil
 os
-io
-PIL 
